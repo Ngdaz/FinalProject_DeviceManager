@@ -1,2 +1,3 @@
 # FinalProject_DeviceManager
-ICT-gen8-USTH
+Your Name:
+ID:
